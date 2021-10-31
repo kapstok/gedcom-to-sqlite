@@ -4,7 +4,7 @@
 
     <groupId>be.allersma</groupId>
     <artifactId>gedcom-to-sqlite</artifactId>
-    <version>1.0-beta1</version>
+    <version>1.0-beta2-SNAPSHOT</version>
     <name>Gedcom to Sqlite parser</name>
 
     <properties>
@@ -16,7 +16,7 @@
         <url>https://github.com/kapstok/gedcom-to-sqlite/src</url>
         <connection>scm:git:ssh://git@github.com/kapstok/gedcom-to-sqlite.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/kapstok/gedcom-to-sqlite.git</developerConnection>
-        <tag>1.0-beta1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
